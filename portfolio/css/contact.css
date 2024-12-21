@@ -1,0 +1,70 @@
+form {
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+label {
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.h-captcha {
+    margin: 10px 0;
+}
+
+button {
+    background-color: #4CAF50;
+    color: black;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    color: skyblue;
+    font-weight: bold;
+}
+
+.captcha {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0;
+    padding: 5px;
+    border: 1px solid #ccc;
+    display: inline-block;
+}
+
+pn {
+    color: red;
+    font-family: A, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    text-decoration: 0;
+    max-width: 1000px;
+}
+
+py {
+    color: green;
+    text-align: 250;
+    margin-left: 100px;
+}

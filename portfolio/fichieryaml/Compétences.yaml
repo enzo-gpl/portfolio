@@ -1,0 +1,16 @@
+titre: "Bienvenue sur mon portfolio"
+Competence:
+      type1: Dévellopement :
+      competence1: Mon niveau en HTML:
+      nvhtml: 2.5/5
+      competence2: Mon niveau en CSS:
+      nvcss: 3/5
+      competence3: Mon niveau en PHP:
+      nvphp: 1/5
+      type2: Réseaux :
+      competence1.1: Paramétrage de switch
+      nvswitch: 3/5
+      competence1.2: Création d'un Réseaux
+      nvreseaux: 3.5/5
+      competence1.3: Windows serveur
+      nvws: 2/5

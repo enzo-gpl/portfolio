@@ -1,0 +1,28 @@
+h {
+    color: blue;
+    font-size: 35px;
+    margin-bottom: 5px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    margin-bottom: -40px;
+    width: 400px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+p {
+    color: darkgreen;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 5px;
+}
